@@ -27,4 +27,4 @@ Images were resized to 224×224 and normalized before training.
 
 ---
 
-[➡ Technical Approach](approach.md)
+[➡ Technical Approach](approach)
