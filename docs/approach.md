@@ -35,3 +35,6 @@ We compared:
 
 ResNet18 performed best, reaching **95% accuracy**.
 
+---
+
+[⬅ Back to Home](index) | [📊 Results & Visualizations](results)
