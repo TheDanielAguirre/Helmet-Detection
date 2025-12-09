@@ -40,3 +40,5 @@ ResNet18 had fewer misclassifications and lower loss.
 <img width="400" height="400" alt="media_images_confusion_matrix_8_320ee2d2cb22eff42ff7" src="https://github.com/user-attachments/assets/b378962d-78bc-433c-809b-c454076babd0" />
 
 <img width="1159" height="627" alt="Screenshot 2025-12-09 112841" src="https://github.com/user-attachments/assets/146480a5-eb8f-4959-837a-35606ce39fee" />
+
+[⬅ Back to Home](index)
